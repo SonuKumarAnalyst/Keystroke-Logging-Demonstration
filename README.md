@@ -14,13 +14,6 @@ The project is developed **strictly for academic learning, cybersecurity awarene
 
 ---
 
-## 🖼️ Project Preview
-> *(Add screenshots or diagrams here to visually explain the working)*
-
-![Project Diagram](https://via.placeholder.com/900x400?text=Keystroke+Logging+Workflow+Diagram)
-
----
-
 ## 🎯 Purpose
 ✔ Understand how keystroke logging techniques operate  
 ✔ Learn about spyware and keylogging threats  
@@ -52,8 +45,6 @@ The project is developed **strictly for academic learning, cybersecurity awarene
 2. Processes keystrokes in a controlled environment  
 3. Demonstrates how data could be monitored  
 4. Used to study detection and prevention techniques  
-
-![Workflow](https://via.placeholder.com/900x350?text=Input+Capture+%E2%86%92+Processing+%E2%86%92+Analysis)
 
 ---
 
